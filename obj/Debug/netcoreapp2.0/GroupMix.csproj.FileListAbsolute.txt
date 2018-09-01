@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\GroupMix\GroupMix\bin\Debug\netcoreapp2.0\GroupMix.deps.json
+C:\Users\Owner\source\repos\GroupMix\GroupMix\bin\Debug\netcoreapp2.0\GroupMix.runtimeconfig.json
+C:\Users\Owner\source\repos\GroupMix\GroupMix\bin\Debug\netcoreapp2.0\GroupMix.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\GroupMix\GroupMix\bin\Debug\netcoreapp2.0\GroupMix.dll
+C:\Users\Owner\source\repos\GroupMix\GroupMix\bin\Debug\netcoreapp2.0\GroupMix.pdb
+C:\Users\Owner\source\repos\GroupMix\GroupMix\obj\Debug\netcoreapp2.0\GroupMix.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\GroupMix\GroupMix\obj\Debug\netcoreapp2.0\GroupMix.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\GroupMix\GroupMix\obj\Debug\netcoreapp2.0\GroupMix.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\GroupMix\GroupMix\obj\Debug\netcoreapp2.0\GroupMix.AssemblyInfo.cs
+C:\Users\Owner\source\repos\GroupMix\GroupMix\obj\Debug\netcoreapp2.0\GroupMix.dll
+C:\Users\Owner\source\repos\GroupMix\GroupMix\obj\Debug\netcoreapp2.0\GroupMix.pdb
